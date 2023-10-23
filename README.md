@@ -45,7 +45,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Alen León**
 
-- GitHub: JhufredL
+- GitHub: https://github.com/JhufredL
 
 
 ## 🤝 Contributing
